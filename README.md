@@ -1,2 +1,1 @@
-# aiNoThankYou
-AINT: AI No Thank You
+# AINT: AI No Thank You
